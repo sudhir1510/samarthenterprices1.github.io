@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Samarth Enterprises</title>
+	<atom:link href="https://sudhir1510.github.io/samarthenterprices1.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sudhir1510.github.io/samarthenterprices1.github.io</link>
+	<description>Nothing secures you better than us.</description>
+	<lastBuildDate>Sat, 27 Aug 2022 09:05:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Java Programming</title>
+		<link>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/</link>
+					<comments>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 Aug 2022 08:41:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[java programming]]></category>
+		<guid isPermaLink="false">https://sudhir1510.github.io/samarthenterprices1.github.io/?p=5</guid>
+
+					<description><![CDATA[What is Java technology and why do I need it? Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative &#8230;<p class="read-more"> <a class="" href="https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/"> <span class="screen-reader-text">Java Programming</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3><strong>What is Java technology and why do I need it?</strong></h3>
+
+
+
+<p class="has-secondary-background-color has-background">Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well.</p>
+
+
+
+<p>While most modern Java applications combine the Java runtime and application together, there are still many applications and even some websites that will not function unless you have a desktop Java installed. Java.com, this website, is intended for consumers who may still require Java for their desktop applications – specifically applications targeting Java 8. Developers as well as users that would like to learn Java programming should visit the&nbsp;<a href="https://dev.java/" target="_blank" rel="noreferrer noopener">dev.java</a>&nbsp;website instead and business users should visit&nbsp;<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer noopener">oracle.com/java</a>&nbsp;for more information.</p>
+
+
+
+<h5>Is Java free to download?</h5>
+
+
+
+<p><strong>Yes</strong>, Java is free to download for personal use.<br>Java is also free for development: developers can find all the development kits and other useful tools at&nbsp;<a rel="noreferrer noopener" href="https://www.oracle.com/javadownload/" target="_blank">https://www.oracle.com/javadownload/</a>.</p>
+
+
+
+<h5>Why should I upgrade to the latest Java patch each quarter when prompted?</h5>
+
+
+
+<p>The latest Java patches contain important enhancements to improve performance, stability and security of the Java applications that run on your machine. Installing these updates will ensure that your Java applications continue to run with the most up-to-date version.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/</link>
+					<comments>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 Aug 2022 08:37:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://sudhir1510.github.io/samarthenterprices1.github.io/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
