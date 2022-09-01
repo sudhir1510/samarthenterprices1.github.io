@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Samarth Enterprises</title>
-	<atom:link href="https://github.com/sudhir1510/samarthenterprices1.github.io.git/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/sudhir1510/samarthenterprices1.github.io.git</link>
+	<atom:link href="https://sudhir1510.github.io/samarthenterprices1.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sudhir1510.github.io/samarthenterprices1.github.io</link>
 	<description>Nothing secures you better than us.</description>
 	<lastBuildDate>Sat, 27 Aug 2022 09:05:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Java Programming</title>
-		<link>https://github.com/sudhir1510/samarthenterprices1.github.io.git/java-programming/</link>
-					<comments>https://github.com/sudhir1510/samarthenterprices1.github.io.git/java-programming/#comments</comments>
+		<link>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/</link>
+					<comments>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2022 08:41:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[java]]></category>
 		<category><![CDATA[java programming]]></category>
-		<guid isPermaLink="false">https://github.com/sudhir1510/samarthenterprices1.github.io.git/?p=5</guid>
+		<guid isPermaLink="false">https://sudhir1510.github.io/samarthenterprices1.github.io/?p=5</guid>
 
-					<description><![CDATA[What is Java technology and why do I need it? Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative &#8230;<p class="read-more"> <a class="" href="https://github.com/sudhir1510/samarthenterprices1.github.io.git/java-programming/"> <span class="screen-reader-text">Java Programming</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[What is Java technology and why do I need it? Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative &#8230;<p class="read-more"> <a class="" href="https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/"> <span class="screen-reader-text">Java Programming</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <h3><strong>What is Java technology and why do I need it?</strong></h3>
 
@@ -60,27 +60,27 @@
 <p>The latest Java patches contain important enhancements to improve performance, stability and security of the Java applications that run on your machine. Installing these updates will ensure that your Java applications continue to run with the most up-to-date version.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/sudhir1510/samarthenterprices1.github.io.git/java-programming/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://github.com/sudhir1510/samarthenterprices1.github.io.git/hello-world/</link>
-					<comments>https://github.com/sudhir1510/samarthenterprices1.github.io.git/hello-world/#comments</comments>
+		<link>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/</link>
+					<comments>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2022 08:37:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/sudhir1510/samarthenterprices1.github.io.git/?p=1</guid>
+		<guid isPermaLink="false">https://sudhir1510.github.io/samarthenterprices1.github.io/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/sudhir1510/samarthenterprices1.github.io.git/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

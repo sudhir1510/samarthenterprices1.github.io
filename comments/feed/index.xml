@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Samarth Enterprises	</title>
-	<atom:link href="https://github.com/sudhir1510/samarthenterprices1.github.io.git/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/sudhir1510/samarthenterprices1.github.io.git</link>
+	<atom:link href="https://sudhir1510.github.io/samarthenterprices1.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sudhir1510.github.io/samarthenterprices1.github.io</link>
 	<description>Nothing secures you better than us.</description>
 	<lastBuildDate>Sat, 27 Aug 2022 09:05:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Java Programming by admin		</title>
-		<link>https://github.com/sudhir1510/samarthenterprices1.github.io.git/java-programming/#comment-2</link>
+		<link>https://sudhir1510.github.io/samarthenterprices1.github.io/java-programming/#comment-2</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2022 08:43:51 +0000</pubDate>
-		<guid isPermaLink="false">https://github.com/sudhir1510/samarthenterprices1.github.io.git/?p=5#comment-2</guid>
+		<guid isPermaLink="false">https://sudhir1510.github.io/samarthenterprices1.github.io/?p=5#comment-2</guid>
 
 					<description><![CDATA[Nice post]]></description>
 			<content:encoded><![CDATA[<p>Nice post</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://github.com/sudhir1510/samarthenterprices1.github.io.git/hello-world/#comment-1</link>
+		<link>https://sudhir1510.github.io/samarthenterprices1.github.io/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 27 Aug 2022 08:37:55 +0000</pubDate>
-		<guid isPermaLink="false">https://github.com/sudhir1510/samarthenterprices1.github.io.git/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://sudhir1510.github.io/samarthenterprices1.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
